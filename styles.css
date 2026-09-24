@@ -95,7 +95,7 @@ section {
     color: #777;
     font-size: 14px;
 }
-.currency-value {
+.currency-value, .currency-value-to-convert {
     font-size: 24px;
     font-weight: 700;
     color: #555;
